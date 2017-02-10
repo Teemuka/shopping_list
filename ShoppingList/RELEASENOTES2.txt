@@ -1,0 +1,55 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2015-12-18T22:10 Teemu Kaunisto
+    Description: Release notes for release 3 (final release).
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    https://youtu.be/Zy7dQBmUkOo
+
+GENERAL INFO
+
+    Application has most of the functionalities that were planned.
+    
+    Watch service and sockets/RMI are still missing and did not
+    made it to this final release.
+    
+    However, application is working properly at this very point except
+    few minor problems in usability. For example the feature that 
+    by moving the mouse away from the product text field adds the default
+    text again can be a stressful. 
+
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User can remove items via GUI from shopping list
+    - Can open text-file and transform contents to LinkedList
+    - Multiple users can use shopping list application at the same time (sockets)
+    - Users can't modify certain target from shopping list at the same time (watch service)
+    - User can save shopping list to DropBox
+
+IMPLEMENTED FEATURES
+
+    - User can remove items via GUI from shopping list
+    - Can open text-file and transform contents to LinkedList
+    - User can save shopping list to DropBox
+    - User can load shopping list from DropBox
+    - Major changes to GUI
+
+FEATURES NOT IMPLEMENTED
+
+    - Multiple users can use shopping list application at the same time (sockets)
+    - Users can't modify certain target from shopping list at the same time (watch service)
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    -------------------------------------------------------
+
+    
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.
